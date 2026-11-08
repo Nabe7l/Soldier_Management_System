@@ -1,10 +1,10 @@
-#Soldier Management System
+# Soldier Management System
 
-##Project Description
+## Project Description
 
 The Soldier Management System is a database project developed using PostgreSQL. It is designed to manage soldiers, military ranks, units, and missions.
 
-##Student Information
+## Student Information
 
 Group Members:
 
