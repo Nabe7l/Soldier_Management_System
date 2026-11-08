@@ -8,15 +8,15 @@ The Soldier Management System is a database project developed using PostgreSQL. 
 
 Group Members:
 
-1. Nabeel Suliman Ahmed
+1. Nabeel Suliman Ahmed:-
    
    - Student ID: 202513707
 
-2. Mohamed Ali MohamedTahir
+2. Mohamed Ali Mohamed Tahir:-
    
    - Student ID: 202513467
 
-3. MOHAMED OMER
+3. MOHAMED OMER:-
    
    - Student ID: 202513481
 
