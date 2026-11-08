@@ -34,7 +34,7 @@ The project contains five tables:
 
 ![Soldier Management ERD](Soldier_Management%20_ERD.png)
 
-##Project Tasks
+## Project Tasks
 
 - Database creation and design.
 - Creating five database tables.
