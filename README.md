@@ -30,9 +30,9 @@ The project contains five tables:
 4. soldiers – Stores soldiers' personal and service information.
 5. soldier_missions – Connects soldiers with their missions.
 
-##ER Diagram
+## ER Diagram
 
-"Soldier Management ERD" (Soldier_Management_ERD.png)
+![Soldier Management ERD](Soldier_Management%20_ERD.png)
 
 ##Project Tasks
 
