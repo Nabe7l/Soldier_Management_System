@@ -20,7 +20,7 @@ Group Members:
    
    - Student ID: 202513481
 
-##Database Tables
+## Database Tables
 
 The project contains five tables:
 
