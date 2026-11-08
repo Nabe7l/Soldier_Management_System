@@ -44,17 +44,18 @@ The project contains five tables:
 - Creating an Index.
 - Creating a View.
 
-##Technologies Used
+## Technologies Used
 
 - PostgreSQL
 - SQL
 - GitHub
 
-##Project Files
+## Project Files
 
 - "Soldier_Management_System.sql" – SQL source code.
 - "Soldier_Management_ERD.png" – Database ER diagram.
 
-##Author
+## Author
 
 Soldier Management System Group Project.
+
